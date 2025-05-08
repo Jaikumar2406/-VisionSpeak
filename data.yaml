@@ -1,0 +1,6 @@
+train: C:/Users/ankus/Desktop/yoloProjects/room items/Random Home Objects Detector.v1/train/images
+val: C:/Users/ankus/Desktop/yoloProjects/room items/Random Home Objects Detector.v1/valid/images
+test: C:/Users/ankus/Desktop/yoloProjects/room items/Random Home Objects Detector.v1/test/images
+
+nc: 12
+names: ['apple', 'balloon', 'basket', 'bottle', 'chair', 'cup', 'flowerpot', 'pillow', 'pineapple', 'soccer', 'tent', 'tree']
