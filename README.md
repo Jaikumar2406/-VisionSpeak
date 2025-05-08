@@ -90,7 +90,7 @@ This project aims to:
 Using OpenCV, the webcam captures live video and feeds it into the trained YOLOv8 model. When a known object is detected, the model:
 - Draws bounding boxes and labels on screen.
 - Displays a message: “I seen [object name]”
-- *(Optional)* Speaks it out loud using `pyttsx3`.
+- Speaks it out loud using `pyttsx3`.
 
 ---
 
